@@ -1909,7 +1909,7 @@ textarea.form-input::-webkit-resizer {
 
     .sidebar,
     article {
-        width: 950px;
+        width: 880px;
         box-shadow: var(--shadow-5);
     }
 
@@ -2047,10 +2047,7 @@ textarea.form-input::-webkit-resizer {
    * REUSED STYLE
    */
 
-    .sidebar,
-    article {
-        width: auto;
-    }
+    /* .sidebar, article { width: auto; } */
 
     article {
         min-height: 100%;
@@ -2073,7 +2070,7 @@ textarea.form-input::-webkit-resizer {
 
     .main-content {
         min-width: 75%;
-        width: 75%;
+        width: 100%;
         margin: 0;
     }
 
