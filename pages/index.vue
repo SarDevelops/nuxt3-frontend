@@ -40,18 +40,12 @@
 
         <section class="about-text">
           <p>
-            I'm Creative Director and UI/UX Designer from Sydney, Australia,
-            working in web development and print media. I enjoy turning complex
-            problems into simple, beautiful and intuitive designs.
-          </p>
-
-          <p>
-            My job is to build your website so that it is functional and
-            user-friendly but at the same time attractive. Moreover, I add
-            personal touch to your product and make sure that is eye-catching
-            and easy to use. My aim is to bring across your message and identity
-            in the most creative way. I created web design for many famous brand
-            companies.
+            Experienced Web Developer with 4 years of expertise in Laravel,
+            Vue.js, and PHP. Skilled in building dynamic web applications,
+            integrating Inertia.js, and optimizing backend logic. Proficient in
+            JavaScript, TypeScript, and scripting for seamless frontend-backend
+            interactions. Strong problem-solving abilities with a focus on
+            performance and scalability.
           </p>
         </section>
 
@@ -144,7 +138,7 @@
           - testimonials
         -->
 
-        <section class="testimonials">
+        <!-- <section class="testimonials">
           <h3 class="h3 testimonials-title">Testimonials</h3>
 
           <ul class="testimonials-list has-scrollbar">
@@ -260,7 +254,7 @@
               </div>
             </li>
           </ul>
-        </section>
+        </section> -->
 
         <!--
           - testimonials modal
@@ -374,21 +368,25 @@
           <ol class="timeline-list">
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">
-                University Of Engineering Pune
+                Bachelor of Computer Application – BCA | Veer Narmad South
+                Gujarat University (VNSGU)
               </h4>
 
-              <span>2021 — 2024</span>
+              <span>2016 — 2019</span>
 
-              <p class="timeline-text">
+              <!-- <p class="timeline-text">
                 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
                 delenit atque corrupti, quos dolores et quas molestias exceptur.
-              </p>
+              </p> -->
             </li>
 
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">New york academy of Texas</h4>
+              <h4 class="h4 timeline-item-title">
+                Master of Science Information and Communication Technology - Msc
+                ICT | Veer Narmad South Gujarat University (VNSGU)
+              </h4>
 
-              <span>2018 — 2024</span>
+              <span>2019 — 2021</span>
 
               <p class="timeline-text">
                 Ratione voluptatem sequi nesciunt, facere quisquams facere menda
@@ -396,7 +394,7 @@
               </p>
             </li>
 
-            <li class="timeline-item">
+            <!-- <li class="timeline-item">
               <h4 class="h4 timeline-item-title">
                 High school of art and design
               </h4>
@@ -407,7 +405,7 @@
                 Duis aute irure dolor in reprehenderit in voluptate, quila
                 voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
               </p>
-            </li>
+            </li> -->
           </ol>
         </section>
 
@@ -422,32 +420,53 @@
 
           <ol class="timeline-list">
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Creative director</h4>
+              <h4 class="h4 timeline-item-title">TechVizor | Surat, India</h4>
 
-              <span>2015 — Present</span>
+              <span>Januvary 2024 – Present</span>
 
               <p class="timeline-text">
-                Nemo enim ipsam voluptatem blanditiis praesentium voluptum
-                delenit atque corrupti, quos dolores et qvuas molestias
-                exceptur.
+                • Developed and maintained scalable web applications for both
+                products and client-based projects using Laravel, Vue.js, and
+                PHP. Specialize in income tax preparation, audit support, and
+                financial statement preparation
+              </p>
+              <p class="timeline-text">
+                • Collaborated with cross-functional teams and clients to gather
+                requirements, optimize system performance, and implement best
+                practices.
+              </p>
+              <p class="timeline-text">
+                • Worked on end-to-end development, customisation,
               </p>
             </li>
 
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Art director</h4>
+              <h4 class="h4 timeline-item-title">
+                Narola Infotech | Surat, India
+              </h4>
 
-              <span>2013 — 2015</span>
+              <span>April 2022 – December 2023</span>
 
               <p class="timeline-text">
-                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
-                delenit atque corrupti, quos dolores et quas molestias exceptur.
+                • Developed and customised web applications for diverse client
+                projects, ensuring tailored solutions using Laravel, Vue.js, and
+                PHP.
+              </p>
+              <p class="timeline-text">
+                • Collaborated with clients to gather requirements and deliver
+                optimised scalable, and high-performance web solutions.
+              </p>
+              <p class="timeline-text">
+                • Provided technical consultation and support, improving system
+                efficiency, debugging issues, and enhancing application
+                security.
               </p>
             </li>
 
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Web designer</h4>
+              <h4 class="h4 timeline-item-title">HulkApps | Surat, India</h4>
 
-              <span>2010 — 2013</span>
+              <span>January 2021 – December 2021</span>
 
               <p class="timeline-text">
                 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
@@ -463,29 +482,7 @@
           <ul class="skills-list content-card">
             <li class="skills-item">
               <div class="title-wrapper">
-                <h5 class="h5">Web design</h5>
-                <data value="80">80%</data>
-              </div>
-
-              <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 80%"></div>
-              </div>
-            </li>
-
-            <li class="skills-item">
-              <div class="title-wrapper">
-                <h5 class="h5">Graphic design</h5>
-                <data value="70">70%</data>
-              </div>
-
-              <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 70%"></div>
-              </div>
-            </li>
-
-            <li class="skills-item">
-              <div class="title-wrapper">
-                <h5 class="h5">Branding</h5>
+                <h5 class="h5">PHP</h5>
                 <data value="90">90%</data>
               </div>
 
@@ -496,12 +493,54 @@
 
             <li class="skills-item">
               <div class="title-wrapper">
-                <h5 class="h5">WordPress</h5>
+                <h5 class="h5">Laravel</h5>
+                <data value="85">85%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 85%"></div>
+              </div>
+            </li>
+
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Vue</h5>
+                <data value="60">60%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 60%"></div>
+              </div>
+            </li>
+
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Javascript</h5>
                 <data value="50">50%</data>
               </div>
 
               <div class="skill-progress-bg">
                 <div class="skill-progress-fill" style="width: 50%"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">TypeScript</h5>
+                <data value="50">50%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 50%"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Jquery</h5>
+                <data value="60">60%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 60%"></div>
               </div>
             </li>
           </ul>

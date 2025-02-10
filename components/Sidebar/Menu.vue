@@ -2,11 +2,12 @@
   <aside class="sidebar" data-sidebar>
     <div class="sidebar-info">
       <figure class="avatar-box">
-        <img src="~/assets/images/my-avatar.png" alt="Om Kharche" width="80" />
+        <!-- <img src="~/assets/images/my-avatar.png" alt="Om Kharche" width="80" /> -->
+        <img src="~/assets/images/my.jpeg" alt="Om Kharche" width="80" />
       </figure>
 
       <div class="info-content">
-        <h1 class="name" title="Om Kharche">Om Kharche</h1>
+        <h1 class="name" title="Om Kharche">Sahil Rana</h1>
 
         <p class="title">Full Stack Developer</p>
       </div>
@@ -31,7 +32,7 @@
             <p class="contact-title">Email</p>
 
             <a href="mailto:omtestmail@gmail.com" class="contact-link"
-              >omtestmail@gmail.com</a
+              >sahildevelops99@gmail.com</a
             >
           </div>
         </li>
@@ -43,8 +44,11 @@
 
           <div class="contact-info">
             <p class="contact-title">Phone</p>
-
-            <a href="tel:+12133522795" class="contact-link">+91 935960743</a>
+            <!-- href="tel:+12133522795 -->
+            <a href="#" class="contact-link">
+              <!-- +91 935960743 -->
+              ---------------------
+            </a>
           </div>
         </li>
 
@@ -56,7 +60,7 @@
           <div class="contact-info">
             <p class="contact-title">Birthday</p>
 
-            <time datetime="1982-06-23">2 March, 2003</time>
+            <time datetime="1982-06-23">1 january, 1999</time>
           </div>
         </li>
 
@@ -68,7 +72,7 @@
           <div class="contact-info">
             <p class="contact-title">Location</p>
 
-            <address>Pune, India</address>
+            <address>Surat, India</address>
           </div>
         </li>
       </ul>
@@ -76,23 +80,23 @@
       <div class="separator"></div>
 
       <ul class="social-list">
-        <li class="social-item">
+        <!-- <li class="social-item">
           <a href="#" class="social-link">
             <ion-icon name="logo-facebook"></ion-icon>
           </a>
-        </li>
+        </li> -->
 
         <li class="social-item">
-          <a href="#" class="social-link">
+          <a href="https://x.com/Sardevelops" class="social-link">
             <ion-icon name="logo-twitter"></ion-icon>
           </a>
         </li>
 
-        <li class="social-item">
+        <!-- <li class="social-item">
           <a href="#" class="social-link">
             <ion-icon name="logo-instagram"></ion-icon>
           </a>
-        </li>
+        </li> -->
       </ul>
     </div>
   </aside>
