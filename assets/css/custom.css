@@ -823,12 +823,22 @@ main {
 .clients-item {
     min-width: 50%;
     scroll-snap-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    /* optional */
+    height: 100px;
+    /* optional */
 }
 
 .clients-item img {
     width: 100%;
     filter: grayscale(1);
     transition: var(--transition-1);
+    width: 120px;
+    height: 60px;
+    object-fit: contain;
 }
 
 .clients-item img:hover {

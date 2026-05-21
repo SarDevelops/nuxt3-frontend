@@ -8,8 +8,9 @@
 
       <div class="info-content">
         <h1 class="name" title="Om Kharche">Sahil Rana</h1>
-
         <p class="title">Full Stack Developer</p>
+        <p class="title">Technologies: PHP, Laravel, Vue, Tailwindcss, Typescript, Javascript, Jquery</p>
+        
       </div>
 
       <button class="info_more-btn" data-sidebar-btn>
@@ -37,22 +38,20 @@
           </div>
         </li>
 
-        <li class="contact-item">
+        <!-- <li class="contact-item">
           <div class="icon-box">
             <ion-icon name="phone-portrait-outline"></ion-icon>
           </div>
 
           <div class="contact-info">
-            <p class="contact-title">Phone</p>
-            <!-- href="tel:+12133522795 -->
+            <p class="contact-title">Phone</p>            
             <a href="#" class="contact-link">
-              <!-- +91 935960743 -->
-              ---------------------
+              +1 973519
             </a>
           </div>
-        </li>
+        </li> -->
 
-        <li class="contact-item">
+        <!-- <li class="contact-item">
           <div class="icon-box">
             <ion-icon name="calendar-outline"></ion-icon>
           </div>
@@ -62,7 +61,7 @@
 
             <time datetime="1982-06-23">1 january, 1999</time>
           </div>
-        </li>
+        </li> -->
 
         <li class="contact-item">
           <div class="icon-box">
@@ -89,6 +88,16 @@
         <li class="social-item">
           <a href="https://x.com/Sardevelops" class="social-link">
             <ion-icon name="logo-twitter"></ion-icon>
+          </a>
+        </li>
+        <li class="social-item">
+          <a href="https://www.linkedin.com/in/sahil-rana-513214192/" class="social-link">
+            <ion-icon name="logo-linkedin"></ion-icon>
+          </a>
+        </li>
+        <li class="social-item">
+          <a href="https://github.com/SarDevelops" class="social-link">
+            <ion-icon name="logo-github"></ion-icon>
           </a>
         </li>
 
